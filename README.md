@@ -4,6 +4,14 @@
 **EZWallet** is a web application designed to help individuals and families manage and track their expenses.
 It allows users to enter, categorize, and monitor their financial activities, offering a clear view of spending habits and helping promote smarter, more informed financial decisions.
 
+## 🧱 Tech Stack
+
+- **Backend**: Node.js, Express
+- **Database**: MongoDB (via Docker)
+- **Frontend**: Planned via GUI prototypes (React/HTML-based mockups)
+- **Containerization**: Docker, Docker Compose
+- **Authentication**: (Optional future feature)
+- **Documentation**: Markdown-based, includes reverse engineering output and improved design
 
 
 ## 📌 Project Overview
@@ -19,6 +27,9 @@ Originally provided as a codebase + API by instructors, this project was approac
   - Deliver Requirement Document v2, GUI Prototype v2, and Estimation v2
 
 
+## 🖼️ Screenshots
+
+![Homepage](./Images/V1/transactions-v1.png)
 
 ## 🛠️ Features
 
@@ -26,17 +37,6 @@ Originally provided as a codebase + API by instructors, this project was approac
 - 👨‍👩‍👧 Support for individual or family use
 - 📁 View all expense data in a structured, readable format
 - 🔧 Extensible backend with modular architecture for new features
-
----
-
-## 🧱 Tech Stack
-
-- **Backend**: Node.js, Express
-- **Database**: MongoDB (via Docker)
-- **Frontend**: Planned via GUI prototypes (React/HTML-based mockups)
-- **Containerization**: Docker, Docker Compose
-- **Authentication**: (Optional future feature)
-- **Documentation**: Markdown-based, includes reverse engineering output and improved design
 
 ## 📁 Project Structure
 
